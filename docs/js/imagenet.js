@@ -36,7 +36,6 @@ export async function loadModel() {
  ************************************************************************/
 
 let xUrls = [
-  'data/imagenet/574_golf_ball.jpg',
   'data/imagenet/217_english_springer.jpg',
   'data/imagenet/701_parachute.jpg',
   'data/imagenet/0_tench.jpg',
