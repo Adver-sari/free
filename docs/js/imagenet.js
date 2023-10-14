@@ -41,7 +41,7 @@ let xUrls = [
   'data/imagenet/701_parachute.jpg',
   'data/imagenet/0_tench.jpg',
   'data/imagenet/497_church.jpg',
-  'data/imagenet/566_french_horn.jpg'
+  'data/imagenet/566_french_horn.jpg',
   'data/imagenet/150425091440566638_8.jpg'
 ]
 let yLbls = [574, 217, 701, 0, 497, 566]
