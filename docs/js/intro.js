@@ -79,7 +79,7 @@ let imagenetXUrls = [
   'data/imagenet/701_parachute.jpg',
   'data/imagenet/0_tench.jpg',
   'data/imagenet/497_church.jpg',
-  'data/imagenet/566_french_horn.jpg'
+  'data/imagenet/150425091440566638_8.jpg'
 ]
 let imagenetYLbls = [574, 217, 701, 0, 497, 566]
 let imagenetY = imagenetYLbls.map(lbl => tf.oneHot(lbl, 1000).reshape([1, 1000]));
